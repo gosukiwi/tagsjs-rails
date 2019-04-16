@@ -1,5 +1,5 @@
 # Tagsjs::Rails
-Short description and motivation.
+Easily use [tagsjs](https://github.com/gosukiwi/tagsjs-rails) in your Rails apps!
 
 ## Usage
 In your `application.js`
